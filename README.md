@@ -136,12 +136,9 @@ An interactive dashboard was created with:
 - **General Practice** is the next largest category with **1,840 patients**.
 - Department-level admission rates are around 50%, with variation across departments.
 - Monthly admission rates vary over time, allowing periods of higher and lower admission activity to be identified.
-
 ## Project Structure
 
----
-
-
+```text
 Healthcare_Patient_Metrics_And_Patient_Flow_Analysis/
 │
 ├── Dashboard Image/
@@ -158,7 +155,7 @@ Healthcare_Patient_Metrics_And_Patient_Flow_Analysis/
 │
 └── README.md
 
----
+```
 
 ### Tools & Technologies
 
@@ -185,7 +182,7 @@ Darshan Patel
 
 GitHub:[darshanpatel-IT](https://github.com/darshanpatel-IT)
 
-LinkedIn: [darshan](www.linkedin.com/in/darshan-patel-a75124288)
+LinkedIn: [darshan patel](www.linkedin.com/in/darshan-patel-a75124288)
 
 
 
