@@ -139,6 +139,9 @@ An interactive dashboard was created with:
 
 ## Project Structure
 
+---
+
+
 Healthcare_Patient_Metrics_And_Patient_Flow_Analysis/
 │
 ├── Dashboard Image/
@@ -154,6 +157,8 @@ Healthcare_Patient_Metrics_And_Patient_Flow_Analysis/
 │   └── PostgreSQL queries and analysis
 │
 └── README.md
+
+---
 
 ### Tools & Technologies
 
