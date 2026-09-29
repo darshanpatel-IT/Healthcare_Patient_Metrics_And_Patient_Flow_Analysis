@@ -139,7 +139,6 @@ An interactive dashboard was created with:
 
 ## Project Structure
 
-```text
 Healthcare_Patient_Metrics_And_Patient_Flow_Analysis/
 │
 ├── Dashboard Image/
@@ -155,9 +154,6 @@ Healthcare_Patient_Metrics_And_Patient_Flow_Analysis/
 │   └── PostgreSQL queries and analysis
 │
 └── README.md
-
-'''
----
 
 ### Tools & Technologies
 
@@ -182,9 +178,9 @@ The main objective of this project is to demonstrate how raw healthcare data can
 
 Darshan Patel
 
-GitHub:[ darshanpatel-IT](https://github.com/darshanpatel-IT)
+GitHub:[darshanpatel-IT](https://github.com/darshanpatel-IT)
 
-LinkedIn: www.linkedin.com/in/darshan-patel-a75124288
+LinkedIn: [darshan](www.linkedin.com/in/darshan-patel-a75124288)
 
 
 
