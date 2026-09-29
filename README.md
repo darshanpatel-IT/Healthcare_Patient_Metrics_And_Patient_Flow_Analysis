@@ -156,9 +156,11 @@ Healthcare_Patient_Metrics_And_Patient_Flow_Analysis/
 │
 └── README.md
 
+'''
 ---
 
-Tools & Technologies
+### Tools & Technologies
+
 Microsoft Excel
 PostgreSQL
 Power BI
@@ -171,11 +173,12 @@ Dashboard Preview
 
 The Power BI dashboard provides an interactive view of patient flow, admissions, waiting time, and satisfaction metrics.
 
-Project Objective
+
+### Project Objective
 
 The main objective of this project is to demonstrate how raw healthcare data can be transformed into clean, structured, and actionable business insights using SQL, Excel, and Power BI.
 
-Author
+### Author
 
 Darshan Patel
 
